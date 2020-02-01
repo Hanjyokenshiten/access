@@ -1,0 +1,27 @@
+.access-main{
+	height:1000px;
+}
+.access-title{
+	width:920px;
+	margin-top:40px;
+	margin-left:auto;
+	margin-right:auto;
+	border-bottom:2px solid black;
+}
+.access-text{
+	margin-top:20px;
+	margin-left:25px;
+	font-size:20px;
+}
+.google-map{
+	margin-top:30px;
+	margin-left:25px;
+}
+ul{
+	margin-top:15px;
+}
+li{
+	font-size:20px;
+	margin-top:7px;
+	margin-left:45px;
+}
