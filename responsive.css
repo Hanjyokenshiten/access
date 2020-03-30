@@ -10,10 +10,13 @@
 	.home-menu-title{
 		font-size: 26px;
 	}
+	.access-title{
+		font-size:28px;	
+	}
 	.access-text{
-		font-size:22px;
+		font-size:23px;
 	}
 	li{
-		font-size:22px;
+		font-size:23px;
 	}
 }
