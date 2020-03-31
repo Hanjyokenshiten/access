@@ -31,11 +31,11 @@ header{
 }
 header i{
             
-            font-size: 56px;
+            font-size: 46px;
             color:#fff;
             position: absolute;
-            top:18px;
-            right:28px;
+            top:20px;
+            right:22px;
         }
 .navi{
     height:55px;
