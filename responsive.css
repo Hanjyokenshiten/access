@@ -38,4 +38,8 @@
 	li{
 		font-size:23px;
 	}
+	footer p{
+		width:50%;
+		margin:0 auto;
+	}
 }
