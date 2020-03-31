@@ -37,6 +37,34 @@ header i{
             top:22px;
             right:22px;
         }
+.menu-res{
+            display: none;
+            display: block;
+            height:100vh;
+            background-color: rgba(136,28,54,0.9);
+            z-index: 1000;
+            position: fixed;
+            top:151px;
+            width:100%;
+            
+        }
+.menu-res ul{
+    list-style: none;
+                padding:0 !important;
+                margin-top: 60px;
+}
+.menu-res li{
+    font-size: 70px;
+                    margin-bottom: 20px;
+}
+.menu-res a{
+    color:#fff;
+                        display: block;
+                        text-align: center;
+}
+.menu-res :hover{
+    border-bottom: none;
+}
 .navi{
     height:55px;
     background-color:rgba(34,49,52,0.9);
