@@ -8,16 +8,11 @@ body{
     max-width:960px;
     width:100%;
     margin:0 auto;
-    padding-top:91px;
     }
 header{
     height:90px;
-    background-color:rgba(34, 49, 52, 1);
+    background-color:rgba(34, 49, 52, 0.9);
     border-bottom:1px solid #CCCCCC;
-    position: fixed;
-    z-index: 1000;
-    top:0;
-    width:100%;
 }
 .header-left{ 
     display:flex;
