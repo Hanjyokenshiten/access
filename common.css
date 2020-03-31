@@ -54,7 +54,8 @@ header i{
 }
 .menu-res li{
     font-size: 30px;
-                    margin-bottom: 20px;
+    margin-bottom: 20px;
+    margin-left:0;
 }
 .menu-res a{
     color:#fff;
