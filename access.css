@@ -6,6 +6,7 @@
 .access-main{
 	height:auto;
 	color:#333;
+	padding-bottom:40px;
 }
 .access-title{
 	width:100%;
@@ -21,6 +22,7 @@
 }
 iframe{
 	width:100%;
+	margin-top:20px;
 }
 ul{
 	margin-top:15px;
