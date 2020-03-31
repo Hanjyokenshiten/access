@@ -8,7 +8,7 @@
 	color:#333;
 }
 .access-title{
-	width:920px;
+	width:100%;
 	margin-top:40px;
 	margin-left:auto;
 	margin-right:auto;
@@ -22,6 +22,7 @@
 .google-map{
 	margin-top:30px;
 	margin-left:25px;
+	width:100%;
 }
 ul{
 	margin-top:15px;
