@@ -4,6 +4,16 @@
 		height:80px ;
 		display:none;
 	}
+	body{
+		padding-top:91px;	
+	}
+	header{
+		background-color:rgba(34, 49, 52, 1);
+		position: fixed;
+    		z-index: 1000;
+    		top:0;
+    		width:100%;
+	}
 	.header-title{
 		display:none;
 	}
