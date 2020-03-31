@@ -30,7 +30,7 @@ header{
     font-size:25px;
 }
 header i{
-            
+            display:none;
             font-size: 46px;
             color:#fff;
             position: absolute;
