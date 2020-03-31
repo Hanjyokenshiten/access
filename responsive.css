@@ -7,6 +7,9 @@
 	.header-title{
 		display:none;
 	}
+	header i{
+		display:block;	
+	}
 	.top{
 		background-position:25%;
 	}
