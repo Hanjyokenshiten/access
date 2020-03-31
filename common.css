@@ -29,6 +29,14 @@ header{
     font-family:'Alegreya Sans SC', sans-serif;
     font-size:25px;
 }
+header i{
+            
+            font-size: 80px;
+            color:#fff;
+            position: absolute;
+            top:26px;
+            right:28px;
+        }
 .navi{
     height:55px;
     background-color:rgba(34,49,52,0.9);
