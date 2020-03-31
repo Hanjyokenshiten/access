@@ -20,6 +20,9 @@
 	header i{
 		display:block;	
 	}
+	.menu-res{
+		display: block;	
+	}
 	.top{
 		background-position:25%;
 	}
